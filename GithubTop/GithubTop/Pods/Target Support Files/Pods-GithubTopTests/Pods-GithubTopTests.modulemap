@@ -1,0 +1,6 @@
+framework module Pods_GithubTopTests {
+  umbrella header "Pods-GithubTopTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
